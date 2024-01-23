@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+grocy-cloud
+# Grocy Cloud
 
-Based on "ABC" at https://www.abc.com/
+Based on "cloud-grocy" at https://github.com/abhinavrau/cloud-grocy
 
 ## 100 - Introduction
 
